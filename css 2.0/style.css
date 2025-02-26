@@ -121,15 +121,18 @@ section .btnone {
         content:"Application Development";
     }
     35% {
-        content:"Java Programming";
+        content:"Google Colab";
     }
     60% {
         content: "Animation In HTML";
     }
     80% {
-        content: "C Programming";
+        content: "Python Programming";
     }
     100% {
-        content: "C++ Programing";
+        content: "Data Analyst";
+    }
+         {
+        content: "Machine Learning";
     }
 }
